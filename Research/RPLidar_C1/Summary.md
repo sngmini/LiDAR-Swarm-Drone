@@ -14,7 +14,7 @@
    |Item|Detail|
    |---|---|
    |Distance Range|0.05 meters up to 12 meters (for White object under 70% reflection)|
-   |Sample Rate|5,000 samples per second (5KHz)|
+   |Sample Rate|5,000 samples per second (5 KHz)|
    |Scan Filed Flatness|0° ~ 1.5°(can be customized)|
    |Communication Inerface|TTL UART|
    |Communication Speed|460800|
@@ -70,8 +70,8 @@
 
    |항목|상세|
    |---|---|
-   |측정 거리|반경 0.5m에서 최대 12m (반사율 70% 백색 물체 기준)|
-   |샘플링 속도|초당 최대 5,000번 (5KHz)|
+   |측정 거리|반경 0.5 m에서 최대 12 m (반사율 70% 백색 물체 기준)|
+   |샘플링 속도|초당 최대 5,000번 (5 KHz)|
    |스캔 균일도|0° ~ 1.5° (사용자화 할 수 있음)|
    |통신 인터페이스|TTL UART|
    |통신 속도|460800|
@@ -79,9 +79,9 @@
 3. 외부 인터페이스 신호 정의
    |색상|신호명|형식|상세|최소|최대|
    |---|---|---|---|---|---|
-   |빨강색|VCC|전원|전력 공급|4.8V|5.2V|
-   |노랑색|TX|출력|시리얼 포트 출력|0V|3.5|
-   |초록색|RX|입력|시리얼 포트 입력|0V|3.5V|
+   |빨강색|VCC|전원|전력 공급|4.8 V|5.2 V|
+   |노랑색|TX|출력|시리얼 포트 출력|0 V|3.5 V|
+   |초록색|RX|입력|시리얼 포트 입력|0 V|3.5 V|
    |검정색|GND|전원|GND|0V|0V|
 
 ## RPLIDER C1 사용자 메뉴얼
