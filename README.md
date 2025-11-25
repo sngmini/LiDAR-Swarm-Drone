@@ -18,7 +18,7 @@ which can be used in disaster situation or on the battlefiled.
 + Phase 3 : Cluster control intergration and distributed 3D map merging.
 
 
-[Research Summary](#Research/Summary.md)
+[Research Summary](#Research/RPLidar_C1/Summary.md)
 ---
 
 
@@ -38,4 +38,5 @@ which can be used in disaster situation or on the battlefiled.
 
 + 3 단계 : 군집 제어 통합 및 분산 3D 맵 병합
 
-[사전학습 요약](#Research/Summary.md)
+[사전학습 요약](#Research/RPLidar_C1
+/Summary.md)
