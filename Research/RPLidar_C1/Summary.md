@@ -15,7 +15,7 @@
    |---|---|
    |Distance Range|0.05 meters up to 12 meters (for White object under 70% reflection)|
    |Sample Rate|5,000 samples per second (5KHz)|
-   |Scan Filed Flatness|0°~1.5°(can be customized)|
+   |Scan Filed Flatness|0° ~ 1.5°(can be customized)|
    |Communication Inerface|TTL UART|
    |Communication Speed|460800|
 
@@ -72,7 +72,7 @@
    |---|---|
    |측정 거리|반경 0.5m에서 최대 12m (반사율 70% 백색 물체 기준)|
    |샘플링 속도|초당 최대 5,000번 (5KHz)|
-   |스캔 균일도|0°~1.5° (사용자화 할 수 있음)|
+   |스캔 균일도|0° ~ 1.5° (사용자화 할 수 있음)|
    |통신 인터페이스|TTL UART|
    |통신 속도|460800|
 
@@ -105,7 +105,7 @@
 
 3. 권장 사항
    + 예열
-     + 작동을 시작하면 스캔 코어에서 열이 발생합니다. 최고의 측정 정확도를 위해 2분 이상 예열 것을 권장합니다.
+     + 작동을 시작하면 스캔 코어에서 열이 발생합니다. 최고의 측정 정확도를 위해 2분 이상 예열할 것을 권장합니다.
    + 주변 온도
      + RPLIDAR의 측정 해상도는 주변 온도에 민감합니다. 극도로 높은 온도(>40℃)나 낮은 온도(<-10℃)에서의 사용을 피하십시오.
     
