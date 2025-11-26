@@ -1,4 +1,4 @@
-## Swarm Drone 3D Mapping with LiIDAR
+## Swarm Drone 3D Mapping with LIDAR
 
 This is a **capstone project** for Department of Electrical Engineering.
 
