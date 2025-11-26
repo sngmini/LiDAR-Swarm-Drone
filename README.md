@@ -1,8 +1,8 @@
-## Swarm Drone 3D Mapping with Lidar
+## Swarm Drone 3D Mapping with LiIDAR
 
 This is a **capstone project** for Department of Electrical Engineering.
 
-It combines **Lidar sensors** with small **swarm drones** to enable **3D mapping**,
+It combines **LIDAR sensors** with small **swarm drones** to enable **3D mapping**,
 
 
 which can be used in disaster situation or on the battlefiled.
@@ -22,11 +22,11 @@ which can be used in disaster situation or on the battlefiled.
 ---
 
 
-## Lidar 센서를 적용한 군집 드론 3D 매핑
+## LIDAR 센서를 적용한 군집 드론 3D 매핑
 
 이것은 전자공학과 졸업 과제 **캡스톤 프로젝트**입니다.
 
-소형 **군집 드론**에 **Lidar 센서**를 적용하여 **3D 매핑**을 구현하며,
+소형 **군집 드론**에 **LIDAR 센서**를 적용하여 **3D 매핑**을 구현하며,
 
 이는 재난 현장 또는 전장에서 사용될 수 있습니다.
 
