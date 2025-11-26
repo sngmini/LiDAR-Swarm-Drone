@@ -43,7 +43,7 @@
      + USB Type-C cable
 
 2. Connection
-   1. **IMPORTANT** You needs to download the UART2USB Driver first. Follow the link to install the driver.
+   1. **IMPORTANT** You needs to install the UART2USB Driver first. Follow the link to download and install the driver.
    2. [Driver Install](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downlo)
    3. Connect RPLIDAR C1 with USB adapter (CP2102 => UART => USB)
    4. Connet the USB adapter to PC via the USB Type-C cable. 
@@ -102,7 +102,7 @@
 
 2. 연결
    
-   1. **중요** UART => USB 통신 드라이버를 먼저 설치해야합니다. 아래 링크를 통해 드라이버를 먼저 설치하세요.
+   1. **중요** UART => USB 통신 드라이버를 먼저 설치해야합니다. 아래 링크를 통해 드라이버를 다운로드하고 설치하세요.
    2. [드라이버 설치](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downlo)
    3. RPLIDAR C1을 USB 어댑터와 연결합니다. (CP2102 => UART => USB)
    4. USB Type-C 케이블을 통해 USB 어댑터를 PC에 연결합니다.
