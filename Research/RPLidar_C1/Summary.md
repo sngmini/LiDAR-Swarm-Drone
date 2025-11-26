@@ -43,16 +43,18 @@
      + USB Type-C cable
 
 2. Connection
-   1. Connect RPLIDAR C1 with USB adapter (CP2102 => UART => USB)
-   2. Connet the USB adapter to PC via the USB Type-C cable. 
-   3. If the PC is on, the indicator light of the USB adapter will light up.
+   1. **IMPORTANT** You needs to download the UART2USB Driver first. Follow the link to install the driver.
+   2. [Driver Install](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downlo)
+   3. Connect RPLIDAR C1 with USB adapter (CP2102 => UART => USB)
+   4. Connet the USB adapter to PC via the USB Type-C cable. 
+   5. If the PC is on, the indicator light of the USB adapter will light up.
 
-3. Recommandation
+4. Recommandation
    + Pre-Heating
      + The scan core will ve heating when start woking. For best measurement accuracy, we recommend pre-heating for more than 2 mintues.
    + Ambient Temperature
      + RPLIDAR's measurement resolution is sensitive to ambient temperature. Avoid using at extremely high(>40℃) or low(<-10℃) temperatures.
-
+       
 
 > Copyright (c) 2009-2013 RoboPeak Team
 
@@ -99,11 +101,14 @@
      + USB Type-C 케이블
 
 2. 연결
-   1. RPLIDAR C1을 USB 어댑터와 연결합니다. (CP2102 => UART => USB)
-   2. USB Type-C 케이블을 통해 USB 어댑터를 PC에 연결합니다.
-   3. PC가 켜져 있으면 USB 어댑터의 표시등이 켜집니다.
+   
+   1. **중요** UART => USB 통신 드라이버를 먼저 설치해야합니다. 아래 링크를 통해 드라이버를 먼저 설치하세요.
+   2. [드라이버 설치](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downlo)
+   3. RPLIDAR C1을 USB 어댑터와 연결합니다. (CP2102 => UART => USB)
+   4. USB Type-C 케이블을 통해 USB 어댑터를 PC에 연결합니다.
+   5. PC가 켜져 있으면 USB 어댑터의 표시등이 켜집니다.
 
-3. 권장 사항
+4. 권장 사항
    + 예열
      + 작동을 시작하면 스캔 코어에서 열이 발생합니다. 최고의 측정 정확도를 위해 2분 이상 예열할 것을 권장합니다.
    + 주변 온도
