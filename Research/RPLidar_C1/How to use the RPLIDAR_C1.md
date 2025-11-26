@@ -19,7 +19,7 @@ After read the [Summary.md](Summary.md) and Follow the steps.
 
 ## Test your RPLIDAR C1.
 
-> Summarized by sngmini
+> Copyright (c) by sngmini
 
 
 ---
@@ -45,5 +45,5 @@ After read the [Summary.md](Summary.md) and Follow the steps.
 
 ## RPLIAR C1 테스트하기.
 
-> Summarized by sngmini
+> Copyright (c) by sngmini
 
