@@ -1,7 +1,7 @@
 # This document is introduce how to start with RPLIDIR C1. (Based on Windows 11)
 
 ---
-After read the [Summary.md](RPLidar_C1/Summary.md) and Follow the steps.
+After read the [Summary.md](Summary.md) and Follow the steps.
 
   1. Install the driver and check it works fine.
   2. Install the **RoboStudio** by SLAMTEC and Register.
@@ -27,7 +27,7 @@ After read the [Summary.md](RPLidar_C1/Summary.md) and Follow the steps.
 # 이 문서는 RPLIDAR C1을 처음 사용하는 방법에 대해 소개합니다. (윈도우 11 환경)
 
 ---
-[Summary.md](RPLidar_C1/Summary.md) 다음 링크에 있는 자료를 먼저 읽은 후에 단계별로 따라오시길 바랍니다.
+[Summary.md](Summary.md) 다음 링크에 있는 자료를 먼저 읽은 후에 단계별로 따라오시길 바랍니다.
 
   1. 드라이버 설치 및 정상작동 확인.
   2. SLAMTEC의 **RoboStudio** 설치 후 가입하기.
