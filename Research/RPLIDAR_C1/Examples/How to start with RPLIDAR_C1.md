@@ -1,4 +1,4 @@
-# This document is introduce how to start with RPLIDIR C1. (Based on Windows 11)
+# This document is introduce how to start with RPLIDIR_C1. (Based on Windows 11)
 
 ---
 After read the [Summary.md](Summary.md) and Follow the steps.
