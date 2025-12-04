@@ -11,6 +11,9 @@ After read the [Summary.md](../Summary.md) and Follow the steps.
 
 ## Install the driver and check it works fine.
 
+  1. Follow the [Link](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads) to download the driver of **USB to UART Bridge**. The official [Development Kit User Manual](../SLAMTEC_rplidarkit_usermanual_C1_v1.1_en.pdf) recommends **CP210x VCP Windows**. 
+  2. After install the driver, connect your device. If it installed properly, you can see that in **Device Manager**.
+
 ---
 
 ## Install the **RoboStudio** by SLAMTEC and Register.
